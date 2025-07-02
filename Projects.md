@@ -64,6 +64,8 @@ Disadvantage:
  :---: | :---: | :---: 
  2/5 | 3/5 | 4 Months
 
+Example website:
+https://buylist.401games.ca/retailer/buylist
 
 ## 4. Backstock Value Creation
-I believe we can create another MTG store with our current backstock. TODO
+I believe we can create another MTG store with our current backstock. **TODO**
