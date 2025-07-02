@@ -68,4 +68,21 @@ Example website:
 https://buylist.401games.ca/retailer/buylist
 
 ## 4. Backstock Value Creation
-I believe we can create another MTG store with our current backstock. **TODO**
+I believe we can create another MTG store with our current backstock. 
+
+**TODO**
+
+## 5. Manabox Integration / Manabox Dump
+Logic:
+Similar to how loans are processed in banks
+
+1. Customer submit manabox file
+2. A function decides whether to accept/decline or accept some
+```
+this function learns from data, similar to project 1
+```
+3. A new file is created for customer to submit to us physically, splitting front stock and buylist
+4. Staff checks authenticity and condition
+5. Cards go to its respective places
+
+**TODO**
