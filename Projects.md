@@ -1,7 +1,7 @@
 # Project Proposal for Grey Ogre Games
 First of all I am going to start with the problems that has happened throughout store's operation. I will focus on MTG section of problems and I will use 3 factors to judge, importance, difficulty to create a solution and time requirement. The solutions can be applied to Pokemon or other card games but that is not our main source of income for now. Tradeoffs using current set of technologies should be laid out and discussed. Timeline of such solution creation will not be specific but it will be a rough estimate based on my current skills. To put in context, an end-to-end software project (a product) requires a team of 3~5 and 6 months. A new working feature for a single project usually requires 1 month with such team.
 
-10~15 minutes of reading.
+*10~15 minutes of reading*.
 
 ##  1. Pricing Baseline
 At the moment we have enough data points from the past 4~5 years of using Binderpos and Shopify to generate a pricing baseline for cards. This project is not specifically targeted towards Binderpos but it will be the baseline of our prices for future. I can still use CK as a main data point but I believe creating our own pricing will be needed sooner or later. 
